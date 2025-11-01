@@ -1,6 +1,6 @@
 # Flask Product Management API
 
-A lightweight **Flask + SQLAlchemy** application built for practicing and demonstrating **integration testing** using **pytest**.  
+A lightweight **Flask, SQLAlchemy** application for  demonstrating **integration testing** using **pytest**.  
 The project defines REST API endpoints for managing **Products**, includes automated integration tests that verify real API interactions via Flask’s test client.
 
 
@@ -23,4 +23,4 @@ flask_app/
 pip install flask flask_sqlalchemy pytest requests
 pip freeze > requirements.txt
 
-# Running the Flask App and all the Tetss
+# Running the Flask App and all the Tests
